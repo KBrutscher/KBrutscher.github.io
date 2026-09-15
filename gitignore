@@ -1,0 +1,16 @@
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Temp files while PowerPoint/Excel is open
+~$*
+
+# Print files (slips, codes list, PDF exports)
+slips*
+
+# Editors
+.vscode/
+.idea/
